@@ -195,3 +195,5 @@ end
 function script_description()
 	return "Flip selected video capture source in all scenes via hotkeys."
 end
+
+-- By Fraph - https://github.com/JosteinE/SimpleObsVideoCaptureFlipperScript
