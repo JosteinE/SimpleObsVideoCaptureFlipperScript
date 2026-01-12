@@ -1,5 +1,5 @@
 # SimpleObsVideoCaptureFlipperScript
-Assign hotkeys to flip a specific video capture source horizontally and vertically.
+Simple lua script for OBS that lets you assign hotkeys to flip a specific video capture source horizontally and vertically.
 
 1. Open the [SimpleCamFlipScript.lua](https://github.com/JosteinE/SimpleObsVideoCaptureFlipperScript/blob/main/SimpleCamFlipScript.lua) document.
 2. Click the "Download Raw File" (top right) to download the script.
